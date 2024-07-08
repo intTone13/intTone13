@@ -1,30 +1,15 @@
 <h1>Hi, I'm Antonio! <br/>Aspiring Cybersecurity Professional</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>Algorithm for file updates in Python</b>
+  - [Click here to view](https://docs.google.com/document/d/1KKR_SuFOTl1L-8grLo81FRw4Z41D_fry6Ul2JpyTICg/edit?usp=drive_link)
+ 
+- <b>File Permissions in Linux</b>
+  - [Click here to view](https://docs.google.com/document/d/1DIJZ96gHOVf7iZMu0zozpTlDPYACy5lD11NTY62pHYc/edit?usp=drive_link&resourcekey=0-EQ2Ue-S47muX_7o5tVYiZg)
+ 
+- <b>Apply Filters to SQL Queries</b>
+  - [Click here to view](https://docs.google.com/document/d/1Icmjyx2qldUdInktqDLzADn-EpxG40F4WB911KtYCFE/edit?usp=drive_link&resourcekey=0-Zy82FU6d4sVtmbVRt30vug)
 
 <h2> 🤳 Connect with me:</h2>
 
