@@ -1,4 +1,4 @@
-![Screenshot (27)](https://github.com/intTone13/intTone13/assets/124211905/83da8fba-7c4f-4923-9cc8-098741425631)
+![Screenshot (28)](https://github.com/intTone13/intTone13/assets/124211905/0635b140-9adf-4f95-ade1-78dadeaa1d06)
 
 
 <h1 align=center>Hello, world! I'm Antonio <br/></h1>
