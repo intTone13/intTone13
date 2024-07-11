@@ -1,6 +1,4 @@
-![banner](https://github.com/intTone13/intTone13/assets/124211905/0635b140-9adf-4f95-ade1-78dadeaa1d06)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Antonio!+👋)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hello,+World!+It's+Antonio+👋)
 <!-- <h1 align="center">Hi 👋, I'm Antonio</h1> -->
 
 <h3 align="center">A passionate IT & Cybersecurity professional committed to protecting data and enhancing cybersecurity measures</h3>
