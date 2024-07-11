@@ -16,9 +16,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="AntonioMartinez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: www.linkedin.com/in/antonio-martinez-
+<a href="https://www.linkedin.com/in/antonio-martinez-/"><img align="left" alt="AntonioMartinez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <!--
 **intTone13/intTone13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
