@@ -1,4 +1,6 @@
-![banner](https://github.com/intTone13/intTone13/assets/124211905/0635b140-9adf-4f95-ade1-78dadeaa1d06)]
+![banner](https://github.com/intTone13/intTone13/assets/124211905/0635b140-9adf-4f95-ade1-78dadeaa1d06)
+
+<h1 align=center>Hello, world! I'm Antonio</h1>
 
 <h3 align="center">A passionate IT & Cybersecurity professional committed to protecting data and enhancing cybersecurity measures</h3>
  
