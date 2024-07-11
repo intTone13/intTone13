@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hello,+World!+It's+Antonio+👋)
 <!-- <h1 align="center">Hi 👋, I'm Antonio</h1> -->
 
-<h3 align="center">A passionate IT & Cybersecurity professional committed to protecting data and enhancing cybersecurity measures</h3>
+<h3 align="center">I'm an aspiring Cybersecurity professional committed to safeguarding assets and ensuring the confidentiality, integrity, and availability of information systems</h3>
  
 <h2>👨‍💻 Projects:</h2>
 
