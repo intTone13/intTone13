@@ -7,6 +7,9 @@
 
 - <b>Azure Honeynet + SOC (Live Traffic)</b>
   - [Click here to view](https://github.com/intTone13/Azure_SOC)
+ 
+ - <b>Active Directory Lab</b>
+  - [Click here to view](https://github.com/intTone13/Active-Directory-Lab)
 
 - <b>Algorithm for file updates in Python</b>
   - [Click here to view](https://docs.google.com/document/d/1KKR_SuFOTl1L-8grLo81FRw4Z41D_fry6Ul2JpyTICg/edit?usp=drive_link)
