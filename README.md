@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TimesNewRoman+Daughter&color=ffffff&size=23&lines=Hello,+World!+It's+Antonio+👋)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TimesNewRoman+Daughter&color=ffffff&size=23&lines=Hello,+World!+I'm+Antonio+👋)
 
 <h3 align="center">I'm an aspiring Cybersecurity professional committed to safeguarding assets and ensuring the confidentiality, integrity, and availability of information systems</h3>
  
