@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TimesNewRoman+Daughter&color=0000CC&size=23&lines=Hello,+World!+I'm+Antonio+👋)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TimesNewRoman+Daughter&color=0000EE&size=23&lines=Hello,+World!+I'm+Antonio+👋)
  
 <h2>👨‍💻 Projects:</h2>
 
