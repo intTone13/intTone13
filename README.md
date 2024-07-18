@@ -4,6 +4,7 @@
 
 - [Azure Honeynet + SOC (Live Traffic)](https://github.com/intTone13/Azure_SOC)
 - [Active Directory Lab](https://github.com/intTone13/Active-Directory-Lab)
+- [Vulnerability Management Lab](https://github.com/intTone13/OpenVAS-Vulnerability-Management)
 - [Algorithm for file updates in Python](https://docs.google.com/document/d/1KKR_SuFOTl1L-8grLo81FRw4Z41D_fry6Ul2JpyTICg/edit?usp=drive_link)
 - [File Permissions in Linux](https://docs.google.com/document/d/1DIJZ96gHOVf7iZMu0zozpTlDPYACy5lD11NTY62pHYc/edit?usp=drive_link&resourcekey=0-EQ2Ue-S47muX_7o5tVYiZg)
 - [Apply Filters to SQL Queries](https://docs.google.com/document/d/1Icmjyx2qldUdInktqDLzADn-EpxG40F4WB911KtYCFE/edit?usp=drive_link&resourcekey=0-Zy82FU6d4sVtmbVRt30vug)
