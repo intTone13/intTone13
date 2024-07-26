@@ -2,6 +2,7 @@
  
 <h2>👨‍💻 Projects:</h2>
 
+- [SOAR & EDR Implementation (In Progress)](https://github.com/intTone13/SOAR-EDR-Project)
 - [Azure Honeynet + SOC (Live Traffic)](https://github.com/intTone13/Azure_SOC)
 - [Active Directory Lab](https://github.com/intTone13/Active-Directory-Lab)
 - [Vulnerability Management Lab](https://github.com/intTone13/OpenVAS-Vulnerability-Management)
